@@ -1,0 +1,150 @@
+Use the following language rules:
+
+General:
+- write with simple and easy words and easy sentence structure for high school level
+- avoid jargon, buzzwords, cliches, cringe
+- use catchy, impactful, memorable, exciting language
+- banned words: transform, unlock, enhance, delve, efficient, master
+- avoid vague, general, abstract language
+- be specific and concrete
+
+Reflection:
+- write relatably to the target demographic
+- user needs should very subtly and very indirectly hint at addressing a specific deadly sin: greed, sloth, envy, wrath, pride, lust, gluttony
+
+Use the following output format:
+
+Hero:
+Sentence 1: 1-sentence <= 15-word hook of product problem and benefit:
+- clear value proposition (both rational and emotional value)
+- catchy, lasting, impactful, memorable
+- specific and clear benefit
+- no buzzwords, no cliches
+Sentence 2: 2-sentence (15 <= x <= 20)-words of product description and user need
+- explain in plain language
+
+Overall Product Benefit:
+1-sentence <= 10-word problem statement, inversed
+- core problem: specific, clear, inversed
+- core value proposition: relatable, clear, specific, compelling
+
+Overall Core Features Benefit:
+1-sentence <= 10-word problem statement, inversed
+- core problem: specific, clear, inversed
+- core value proposition: relatable, clear, specific, compelling
+
+6 Core Features Section:
+
+Feature 1:
+Sentence 1: 1-sentence <= 10-word feature benefit hook: complete, attractive, compelling
+Sentence 2: 1-sentence <= 10-word feature problem question hook:
+- negative consequences of problem: painful, costly, dissatisfied
+- relatable, compelling, urgent
+Sentence 3: 1-sentence (10 <= x <= 15)-word feature description:
+- simple, easily readable
+- complete, exhaustive, clear
+- specific, particular. real, representative examples
+- over 10+ words
+- in-depth description, elaboration, explanation
+Sentence 4: 1-sentence <= 10-word feature addressed user need:
+- relatable, empathetic, feel heard, specific, particular, example
+- implicit, subtle, indirect
+- banned words: feel
+
+...
+
+Feature 6:
+Sentence 1: 1-sentence <= 10-word feature benefit hook: complete, attractive, compelling
+Sentence 2: 1-sentence <= 10-word feature problem question hook:
+- negative consequences of problem: painful, costly, dissatisfied
+- relatable, compelling, urgent
+Sentence 3: 1-sentence (10 <= x <= 15)-word feature description:
+- simple, easily readable
+- complete, exhaustive, clear
+- specific, particular. real, representative examples
+- over 10+ words
+- in-depth description, elaboration, explanation
+Sentence 4: 1-sentence <= 10-word feature addressed user need:
+- relatable, empathetic, feel heard, specific, particular, example
+- implicit, subtle, indirect
+- banned words: feel
+
+Overall Delighter Features Benefit:
+1-sentence <= 10-word problem statement, inversed
+- delighter problem: specific, clear, inversed
+- delighter value proposition: relatable, clear, specific, compelling
+
+4 Delighter Features Section:
+- delighter features: novelty, differentiator, unique, special
+- different and distinct from core features
+
+Feature 1:
+Sentence 1: 1-sentence <= 10-word feature benefit hook: complete, attractive, compelling
+Sentence 2: 1-sentence <= 10-word feature problem question hook:
+- negative consequences of problem: painful, costly, dissatisfied
+- relatable, compelling, urgent
+Sentence 3: 1-sentence (10 <= x <= 15)-word feature description:
+- simple, easily readable
+- complete, exhaustive, clear
+- specific, particular. real, representative examples
+- over 10+ words
+- in-depth description, elaboration, explanation
+Sentence 4: 1-sentence <= 10-word feature addressed user need:
+- relatable, empathetic, feel heard, specific, particular, example
+- implicit, subtle, indirect
+- banned words: feel
+
+...
+
+Feature 4:
+Sentence 1: 1-sentence <= 10-word feature benefit hook: complete, attractive, compelling
+Sentence 2: 1-sentence <= 10-word feature problem question hook:
+- negative consequences of problem: painful, costly, dissatisfied
+- relatable, compelling, urgent
+Sentence 3: 1-sentence (10 <= x <= 15)-word feature description:
+- simple, easily readable
+- complete, exhaustive, clear
+- specific, particular. real, representative examples
+- over 10+ words
+- in-depth description, elaboration, explanation
+Sentence 4: 1-sentence <= 10-word feature addressed user need:
+- relatable, empathetic, feel heard, specific, particular, example
+- implicit, subtle, indirect
+- banned words: feel
+
+6 Use Cases Section:
+- specific, realistic, representative examples
+- diverse demographics and personas
+- two sentences per use case
+
+Use Case 1 (2 sentences only):
+Sentence 1: 1-sentence <= 10-word domain-specific, specialized, industry use case:
+- specific example of concrete task or workflow (as an action verb. banned: noun, adjective) using specific product feature
+- complete, attractive, compelling
+Sentence 2: 1-sentence <= 10-word benefit outcome:
+- quantitative, specific, measurable: cost saved, time saved, revenue increased, quality improved, quantity increased
+- empathetic, relatable, feel heard
+
+...
+
+Use Case 6 (2 sentences only):
+Sentence 1: 1-sentence <= 10-word domain-specific, specialized, industry use case:
+- specific example of concrete task or workflow (as an action verb. banned: noun, adjective) using specific product feature
+- complete, attractive, compelling
+Sentence 2: 1-sentence <= 10-word benefit outcome:
+- quantitative, specific, measurable: cost saved, time saved, revenue increased, quality improved, quantity increased
+- empathetic, relatable, feel heard
+
+Testimonial Header:
+Sentence 1: 1-sentence <= 10-word user demographic description:
+- e.g. used by, loved by, trusted by, recommended by, etc.
+- representative demographic and personas
+Sentence 2: 1-sentence <= 10-word product mission statement: relatable, empathetic, feel heard
+
+<skip specific testimonials>
+
+Call-to-Action:
+1-sentence <= 7-word product benefit hook:
+- relatable, compelling, urgent
+- no buzzwords, no cliches
+1-sentence <= 7-word product pricing: subtle, attractive, good deal
